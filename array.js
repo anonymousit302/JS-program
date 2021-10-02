@@ -47,4 +47,6 @@ console.log(result)
 var result = [2,3,3,8].every((element)=>{
     return element%2 === 0;
 })
+
+
 console.log(result)
